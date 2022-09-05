@@ -5,7 +5,7 @@ I'm a Building Student at the University of Lagos.
 I'm a tech enthusiast and I enjoy learning about ways to create new technologies. I've been in the tech space for less than a year, and trust me its been a ride.
 I'm proficient in HTML, CSS and a bit of JavaScript. At the moment, I’m learning VueJS.
 
-Outside the world of tech, I love learning new things and of course getting better at what I already know. I enjoy listening to music, watching movies, going to the beach 🏖 although it's been a whileee. 
+Outside the world of tech, I love learning new things and of course, getting better at what I already know. I enjoy listening to music, watching movies, going to the beach 🏖 although it's been a whileee. 
 
 ### Key Highlights😊
 - 🌱 I’m currently learning VueJS
