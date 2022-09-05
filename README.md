@@ -27,7 +27,7 @@ Outside the world of tech, I love learning new things and of course, getting bet
 <img align="left" alt="Javascript" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> 
 <img align="left" alt="Vue JS" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /> 
 <img align="left" alt="Git" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" /> 
-<img align="left" alt="Github" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" /> 
+<img align="left" alt="Github" width="26px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/105107337/188502639-b8e65ab2-53af-4436-87c5-d7180af9ff38.png" /> 
 <img align="left" alt="VS code" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />  
 
 
