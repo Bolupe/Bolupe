@@ -8,7 +8,7 @@ I'm proficient in HTML, CSS and a bit of JavaScript. At the moment, I’m learni
 Outside the world of tech, I love learning new things and of course, getting better at what I already know. I enjoy listening to music, watching movies, going to the beach 🏖 although it's been a whileee. 
 
 ### Key Highlights😊
-- 🌱 I’m currently learning VueJS
+- 🌱 I’m currently learning React
 - 👯 I’m looking to intern as a Front-end Developer 
 - ⚡ Fun fact: I love listening to music
 
