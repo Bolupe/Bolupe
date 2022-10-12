@@ -3,7 +3,7 @@
 ### About me
 I'm a Building Student at the University of Lagos.
 I'm a tech enthusiast and I enjoy learning about ways to create new technologies. I've been in the tech space for less than a year, and trust me its been a ride.
-I'm proficient in HTML, CSS and a bit of JavaScript. At the moment, I’m learning VueJS.
+I'm proficient in HTML, CSS and a bit of JavaScript. At the moment, I’m learning React.
 
 Outside the world of tech, I love learning new things and of course, getting better at what I already know. I enjoy listening to music, watching movies, going to the beach 🏖 although it's been a whileee. 
 
@@ -25,7 +25,7 @@ Outside the world of tech, I love learning new things and of course, getting bet
 <img align="left" alt="CSS3" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> 
 <img align="left" alt="Tailwind CSS" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /> 
 <img align="left" alt="Javascript" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> 
-<img align="left" alt="Vue JS" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /> 
+<img align="left" alt="React" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
 <img align="left" alt="Git" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" /> 
 <img align="left" alt="Github" width="26px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/105107337/188502639-b8e65ab2-53af-4436-87c5-d7180af9ff38.png" /> 
 <img align="left" alt="VS code" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />  
