@@ -2,7 +2,7 @@
 
 ### About me
 I'm a Building Student at the University of Lagos.
-I'm a tech enthusiast and I enjoy learning about ways to create new technologies. I've been in the tech space for more than a year, and trust me its been a ride.
+I'm a tech enthusiast and I enjoy learning about ways to create new technologies. I've been in the tech space for a while and trust me its been a ride.
 I'm proficient in HTML, CSS and JavaScript. At the moment, I’m learning React JS.
 
 Outside the world of tech, I love learning new things and of course, getting better at what I already know.
